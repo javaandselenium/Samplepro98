@@ -6,6 +6,6 @@ import org.testng.annotations.Test;
 public class Test1 {
 @Test
 public void tc2() {
-	Reporter.log("Hello selenium",true);
+	Reporter.log("Hello Appium",true);
 }
 }
